@@ -1,0 +1,1 @@
+Generated PNG file for visual documentation is attached
