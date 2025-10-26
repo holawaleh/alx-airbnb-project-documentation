@@ -1,0 +1,1 @@
+use-caase-diagram is attached using format PNG as specified
